@@ -9,11 +9,15 @@
 Để cài đặt và chạy ứng dụng này trên máy cục bộ, hãy tham khảo phần [Cài Đặt](#cài-đặt) dưới đây.
 
 ## DEMO
+* Giao diện đăng nhập:
 ![dang-nhap](https://i.imgur.com/ddfMpHa.png)
 
+*Giao diện Dasboard:
+![dasboard](https://i.imgur.com/NmxMhaG.png)
 
 ## Báo cáo
 [Ấn vào đây để xem file báo cáo.](https://github.com/phuc1dev/nhom26/blob/main/ThuHai-Nhom26.pdf)
+
 
 ## Cài Đặt
 Để cài đặt và chạy ứng dụng này trên máy cục bộ, hãy thực hiện các bước sau:
