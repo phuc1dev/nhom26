@@ -16,7 +16,8 @@
 2. Clone repo từ GitHub:
 
 ```sh
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/phuc1dev/nhom26.git
+```
 
 3. Di chuyển thư mục dự án vào thư mục htdocs trong thư mục cài đặt XAMPP.
 
@@ -24,7 +25,7 @@ git clone https://github.com/your-username/your-project.git
 
 5. Truy cập http://localhost/phpmyadmin trên trình duyệt, tạo một cơ sở dữ liệu mới và sau đó nhập tệp nhom26.sql để tạo cấu trúc và dữ liệu cho cơ sở dữ liệu.
 
-6. Mở tệp /init/config.php và chỉnh sửa thông tin cấu hình cơ sở dữ liệu để phù hợp với cài đặt cục bộ của bạn. Thông tin cần chỉnh sửa bao gồm tên máy chủ (thường là localhost), tên cơ sở dữ liệu (tên của cơ sở dữ liệu bạn vừa tạo), tên người dùng và mật khẩu.
+6. Mở tệp ```/init/config.php``` và chỉnh sửa thông tin cấu hình cơ sở dữ liệu để phù hợp với cài đặt cục bộ của bạn. Thông tin cần chỉnh sửa bao gồm tên máy chủ (thường là localhost), tên cơ sở dữ liệu (tên của cơ sở dữ liệu bạn vừa tạo), tên người dùng và mật khẩu.
 
 7. Truy cập http://localhost/your-project trên trình duyệt để xem ứng dụng.
 
