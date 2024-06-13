@@ -23,7 +23,7 @@ git clone https://github.com/phuc1dev/nhom26.git
 
 4. Khởi động XAMPP và bật Apache và MySQL.
 
-5. Truy cập http://localhost/phpmyadmin trên trình duyệt, tạo một cơ sở dữ liệu mới và sau đó nhập tệp nhom26.sql để tạo cấu trúc và dữ liệu cho cơ sở dữ liệu.
+5. Truy cập http://localhost/phpmyadmin trên trình duyệt, tạo một cơ sở dữ liệu mới và sau đó nhập tệp **nhom26.sql** để tạo cấu trúc và dữ liệu cho cơ sở dữ liệu.
 
 6. Mở tệp ```/init/config.php``` và chỉnh sửa thông tin cấu hình cơ sở dữ liệu để phù hợp với cài đặt cục bộ của bạn. Thông tin cần chỉnh sửa bao gồm tên máy chủ (thường là localhost), tên cơ sở dữ liệu (tên của cơ sở dữ liệu bạn vừa tạo), tên người dùng và mật khẩu.
 
