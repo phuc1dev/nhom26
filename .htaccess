@@ -1,0 +1,43 @@
+RewriteEngine On
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteRule ^tasks($|/) - [F]
+</IfModule>
+
+RewriteRule ^index.html$ /html/index.php [L]
+RewriteRule ^index.php$ /html/index.php [L]
+
+RewriteRule ^$ /html/ [L]
+
+RewriteRule ^dang-nhap.html$ /html/authenticate/login.php [L]
+RewriteRule ^dang-ky-phong-may.html$ /html/dang-ky-phong-may.php [L]
+RewriteRule ^bao-cao-may-hong.html$ /html/bao-cao-may-hong.php [L]
+
+RewriteRule ^quan-ly-giang-vien.html$ /html/quan-ly-giang-vien.php [L]
+RewriteRule ^quan-ly-phong-may.html$ /html/quan-ly-phong-may.php [L]
+
+
+RewriteRule ^api/authenticate/login$ /init/login.php [L]
+RewriteRule ^api/timetable/load$ /init/timetable.php [L]
+RewriteRule ^api/timetable/check$ /init/check_reg_calendar.php [L]
+RewriteRule ^api/timetable/reg$ /init/reg_calendar.php [L]
+
+RewriteRule ^api/pc/report$ /init/report_pc.php
+
+RewriteRule ^api/admin/findByName$ /init/findGvByName.php
+RewriteRule ^api/admin/saveGV$ /init/saveGV.php [L]
+RewriteRule ^api/admin/deleteGV$ /init/deleteGV.php
+RewriteRule ^api/admin/addGV$ /init/addGV.php
+
+RewriteRule ^api/admin/saveRoom$ /init/saveRoom.php [L]
+RewriteRule ^api/admin/deleteRoom$ /init/deleteRoom.php
+RewriteRule ^api/admin/addRoom$ /init/addRoom.php
+
+ErrorDocument 404 /html/pages-misc-error-404.php
+
+<FilesMatch "(composer.json|composer.lock|config.php|footer.php|header.php|navbar.php)">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
