@@ -27,12 +27,15 @@ git clone https://github.com/phuc1dev/nhom26.git
 
 6. Mở tệp ```/init/config.php``` và chỉnh sửa thông tin cấu hình cơ sở dữ liệu để phù hợp với cài đặt cục bộ của bạn. Thông tin cần chỉnh sửa bao gồm tên máy chủ (thường là localhost), tên cơ sở dữ liệu (tên của cơ sở dữ liệu bạn vừa tạo), tên người dùng và mật khẩu.
 
-7. Truy cập http://localhost/your-project trên trình duyệt để xem ứng dụng.
+7. Truy cập http://localhost/nhom26 trên trình duyệt để xem ứng dụng.
 
 
 ## Sử Dụng
 Ứng dụng web này giúp quản lý phòng máy tính. Bạn có thể thực hiện các chức năng sau:
 
- * Xem thông tin chi tiết về từng phòng máy.
  * Theo dõi tình trạng của từng máy tính trong phòng.
  * Cập nhật thông tin về phòng máy và máy tính.
+ * Đăng ký sử dụng phòng máy.
+ * Hiển thị lịch sử dụng phòng máy.
+ * Thêm giảng viên ([ADMIN])
+ * Thêm phòng máy ([ADMIN])
