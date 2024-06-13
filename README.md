@@ -6,9 +6,9 @@
 
 Ứng dụng được xây dựng dựa trên ngôn ngữ lập trình PHP, với sự hỗ trợ của các thư viện và công nghệ như HTML, CSS, JavaScript, và SQL. Đặc biệt, ứng dụng sử dụng thư viện Moment.js để xử lý và hiển thị thời gian, và thư viện Toastr.js để hiển thị thông báo cho người dùng.
 
-Để cài đặt và chạy ứng dụng này trên máy cục bộ, hãy tham khảo phần [Cài Đặt][def] dưới đây.
+Để cài đặt và chạy ứng dụng này trên máy cục bộ, hãy tham khảo phần [Cài Đặt](#cài-đặt) dưới đây.
 
-## Cài Đặt[][def]
+## Cài Đặt
 Để cài đặt và chạy ứng dụng này trên máy cục bộ, hãy thực hiện các bước sau:
 
 1. Cài đặt XAMPP từ [đây](https://www.apachefriends.org/index.html).
@@ -36,6 +36,3 @@ git clone https://github.com/phuc1dev/nhom26.git
  * Xem thông tin chi tiết về từng phòng máy.
  * Theo dõi tình trạng của từng máy tính trong phòng.
  * Cập nhật thông tin về phòng máy và máy tính.
-
-
-[def]: #cai-dat
