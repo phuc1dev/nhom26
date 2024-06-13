@@ -6,14 +6,19 @@
 
 Ứng dụng được xây dựng dựa trên ngôn ngữ lập trình PHP, với sự hỗ trợ của các thư viện và công nghệ như HTML, CSS, JavaScript, và SQL. Đặc biệt, ứng dụng sử dụng thư viện Moment.js để xử lý và hiển thị thời gian, và thư viện Toastr.js để hiển thị thông báo cho người dùng.
 
+Ngoài ra website còn sử dụng các thuật toán để đăng ký lịch sử dụng phòng máy để đảm bảo không thể sử dụng 1 phòng máy trong cùng khoảng thời gian.
+
 Để cài đặt và chạy ứng dụng này trên máy cục bộ, hãy tham khảo phần [Cài Đặt](#cài-đặt) dưới đây.
 
 ## DEMO
 * Giao diện đăng nhập:
 ![dang-nhap](https://i.imgur.com/ddfMpHa.png)
 
-*Giao diện Dasboard:
+* Giao diện Dasboard:
 ![dasboard](https://i.imgur.com/NmxMhaG.png)
+
+* Giao diện Đăng ký sử dụng phòng máy:
+![dang-ky-phong-may](https://i.imgur.com/DIoitr9.png)
 
 ## Báo cáo
 [Ấn vào đây để xem file báo cáo.](https://github.com/phuc1dev/nhom26/blob/main/ThuHai-Nhom26.pdf)
