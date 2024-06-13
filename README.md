@@ -37,5 +37,5 @@ git clone https://github.com/phuc1dev/nhom26.git
  * Cập nhật thông tin về phòng máy và máy tính.
  * Đăng ký sử dụng phòng máy.
  * Hiển thị lịch sử dụng phòng máy.
- * Thêm giảng viên ([ADMIN])
- * Thêm phòng máy ([ADMIN])
+ * Thêm giảng viên (**ADMIN**)
+ * Thêm phòng máy (**ADMIN**)
