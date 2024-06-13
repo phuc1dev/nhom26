@@ -8,7 +8,7 @@
 
 Để cài đặt và chạy ứng dụng này trên máy cục bộ, hãy tham khảo phần [Cài Đặt](#cai-dat) dưới đây.
 
-[## Cài Đặt](#caidat)
+## Cài Đặt[](#caidat)
 Để cài đặt và chạy ứng dụng này trên máy cục bộ, hãy thực hiện các bước sau:
 
 1. Cài đặt XAMPP từ [đây](https://www.apachefriends.org/index.html).
