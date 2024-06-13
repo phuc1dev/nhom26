@@ -20,6 +20,8 @@ Ngoài ra website còn sử dụng các thuật toán để đăng ký lịch s�
 * Giao diện Đăng ký sử dụng phòng máy:
 ![dang-ky-phong-may](https://i.imgur.com/DIoitr9.png)
 
+* Hãy truy cập **[phuc1dev](https://phuc1dev.top)** để xem trực tiếp!
+
 ## Báo cáo
 [Ấn vào đây để xem file báo cáo.](https://github.com/phuc1dev/nhom26/blob/main/ThuHai-Nhom26.pdf)
 
